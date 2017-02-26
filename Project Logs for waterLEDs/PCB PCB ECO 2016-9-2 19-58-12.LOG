@@ -1,0 +1,65 @@
+Removed Pin From Net: NetName=VCC Pin=k1-1
+Removed Pin From Net: NetName=K1 Pin=k1-2
+Removed Pin From Net: NetName=VCC Pin=k2-1
+Removed Pin From Net: NetName=GND Pin=R10-1
+Removed Pin From Net: NetName=K2 Pin=R10-2
+Removed Pin From Net: NetName=GND Pin=R11-2
+Removed Pin From Net: NetName=VCC Pin=U1-1
+Removed Pin From Net: NetName=VCC Pin=U2-1
+Removed Member From Class: ClassName=Sheet1 Member=U1
+Removed Member From Class: ClassName=Sheet1 Member=U2
+Change Component Footprint: Designator=k1 Old Footprint=0603 New Footprint=KEY_SODFL_2-Leads
+Change Component Footprint: Designator=k2 Old Footprint=0603 New Footprint=KEY_SODFL_2-Leads
+Added Component: Designator=LEDArray(HDR1X10)
+Added Component: Designator=LED(HDR1X8)
+Added Component: Designator=POW(HDR1X4)
+Added Component: Designator=Q0(SOT-23B_N)
+Added Component: Designator=Q1(SOT-23B_N)
+Added Pin To Net: NetName=K1 Pin=k1-1
+Added Pin To Net: NetName=GND Pin=k1-2
+Added Pin To Net: NetName=GND Pin=k2-1
+Added Pin To Net: NetName=LED0 Pin=LED-1
+Added Pin To Net: NetName=LED1 Pin=LED-2
+Added Pin To Net: NetName=LED2 Pin=LED-3
+Added Pin To Net: NetName=LED3 Pin=LED-4
+Added Pin To Net: NetName=LED4 Pin=LED-5
+Added Pin To Net: NetName=LED5 Pin=LED-6
+Added Pin To Net: NetName=LED6 Pin=LED-7
+Added Pin To Net: NetName=LED7 Pin=LED-8
+Added Pin To Net: NetName=A Pin=LEDArray-1
+Added Pin To Net: NetName=B Pin=LEDArray-2
+Added Pin To Net: NetName=C Pin=LEDArray-3
+Added Pin To Net: NetName=D Pin=LEDArray-4
+Added Pin To Net: NetName=E Pin=LEDArray-5
+Added Pin To Net: NetName=F Pin=LEDArray-6
+Added Pin To Net: NetName=G Pin=LEDArray-7
+Added Pin To Net: NetName=DP Pin=LEDArray-8
+Added Pin To Net: NetName=S1 Pin=LEDArray-9
+Added Pin To Net: NetName=S2 Pin=LEDArray-10
+Added Pin To Net: NetName=K1 Pin=POW-1
+Added Pin To Net: NetName=K2 Pin=POW-2
+Added Pin To Net: NetName=VCC Pin=POW-3
+Added Pin To Net: NetName=GND Pin=POW-4
+Added Pin To Net: NetName=VCC Pin=Q0-3
+Added Pin To Net: NetName=VCC Pin=Q1-3
+Added Pin To Net: NetName=K2 Pin=R10-1
+Added Pin To Net: NetName=VCC Pin=R10-2
+Added Pin To Net: NetName=VCC Pin=R11-2
+Added Pin To Net: NetName=NetQ0_1 Pin=Q0-1
+Added Pin To Net: NetName=NetQ0_1 Pin=R8-1
+Added Net: Name=NetQ0_1
+Added Pin To Net: NetName=NetQ0_2 Pin=Q0-2
+Added Pin To Net: NetName=NetQ0_2 Pin=R16-2
+Added Net: Name=NetQ0_2
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_1 Pin=R9-1
+Added Net: Name=NetQ1_1
+Added Pin To Net: NetName=NetQ1_2 Pin=Q1-2
+Added Pin To Net: NetName=NetQ1_2 Pin=R17-2
+Added Net: Name=NetQ1_2
+Change Class Name : Old Net Name=Sheet1 New Net Name=waterLEDSheet
+Added Member To Class: ClassName=waterLEDSheet Member=Component LEDArray NUM
+Added Member To Class: ClassName=waterLEDSheet Member=Component LED WaterLED
+Added Member To Class: ClassName=waterLEDSheet Member=Component POW KEY
+Added Member To Class: ClassName=waterLEDSheet Member=Component Q0 QNPN
+Added Member To Class: ClassName=waterLEDSheet Member=Component Q1 QNPN

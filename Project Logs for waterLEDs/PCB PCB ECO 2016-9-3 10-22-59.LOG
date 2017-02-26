@@ -1,0 +1,4 @@
+Added Component: Designator=Q?(SOT-23B_N)
+Added Pin To Net: NetName=VCC Pin=Q?-3
+Added Member To Class: ClassName=waterLEDSheet Member=Component Q? PNP
+Added Room: Name=waterLEDSheet

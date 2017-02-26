@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=K1 Pin=POW-1
+Removed Pin From Net: NetName=K2 Pin=POW-2
+Removed Pin From Net: NetName=LIGHTCASE Pin=POW-3
+Removed Pin From Net: NetName=VCC Pin=POW-4
+Removed Pin From Net: NetName=GND Pin=POW-5
+Removed Member From Class: ClassName=waterLEDSheet Member=POW
+Added Component: Designator=Key(HDR1X3)
+Added Component: Designator=Power(HDR1X2)
+Added Pin To Net: NetName=K1 Pin=Key-1
+Added Pin To Net: NetName=K2 Pin=Key-2
+Added Pin To Net: NetName=LIGHTCASE Pin=Key-3
+Added Pin To Net: NetName=VCC Pin=Power-1
+Added Pin To Net: NetName=GND Pin=Power-2
+Added Member To Class: ClassName=waterLEDSheet Member=Component Key  
+Added Member To Class: ClassName=waterLEDSheet Member=Component Power Header 2

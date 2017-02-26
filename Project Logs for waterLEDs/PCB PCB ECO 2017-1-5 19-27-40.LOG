@@ -1,0 +1,36 @@
+Added Component: Designator=U(TQFP 32)
+Added Member To Class: ClassName=waterLEDSheet Member=Component D0 LED0
+Added Member To Class: ClassName=waterLEDSheet Member=Component D1 LED0
+Added Member To Class: ClassName=waterLEDSheet Member=Component D2 LED0
+Added Member To Class: ClassName=waterLEDSheet Member=Component D3 LED0
+Added Member To Class: ClassName=waterLEDSheet Member=Component D4 LED0
+Added Member To Class: ClassName=waterLEDSheet Member=Component D5 LED0
+Added Member To Class: ClassName=waterLEDSheet Member=Component D6 LED0
+Added Member To Class: ClassName=waterLEDSheet Member=Component D7 LED0
+Added Member To Class: ClassName=waterLEDSheet Member=Component k1 SW-PB
+Added Member To Class: ClassName=waterLEDSheet Member=Component k2 SW-PB
+Added Member To Class: ClassName=waterLEDSheet Member=Component Key 
+Added Member To Class: ClassName=waterLEDSheet Member=Component LED_EN 
+Added Member To Class: ClassName=waterLEDSheet Member=Component LEDArray NUM
+Added Member To Class: ClassName=waterLEDSheet Member=Component lightCase 
+Added Member To Class: ClassName=waterLEDSheet Member=Component Power Header 2
+Added Member To Class: ClassName=waterLEDSheet Member=Component Q0 QNPN
+Added Member To Class: ClassName=waterLEDSheet Member=Component Q1 QNPN
+Added Member To Class: ClassName=waterLEDSheet Member=Component R0 510
+Added Member To Class: ClassName=waterLEDSheet Member=Component R1 510
+Added Member To Class: ClassName=waterLEDSheet Member=Component R2 510
+Added Member To Class: ClassName=waterLEDSheet Member=Component R3 510
+Added Member To Class: ClassName=waterLEDSheet Member=Component R4 510
+Added Member To Class: ClassName=waterLEDSheet Member=Component R5 510
+Added Member To Class: ClassName=waterLEDSheet Member=Component R6 510
+Added Member To Class: ClassName=waterLEDSheet Member=Component R7 510
+Added Member To Class: ClassName=waterLEDSheet Member=Component R8 
+Added Member To Class: ClassName=waterLEDSheet Member=Component R9 
+Added Member To Class: ClassName=waterLEDSheet Member=Component R10 
+Added Member To Class: ClassName=waterLEDSheet Member=Component R11 
+Added Member To Class: ClassName=waterLEDSheet Member=Component R12 Res3
+Added Member To Class: ClassName=waterLEDSheet Member=Component R16 Res2
+Added Member To Class: ClassName=waterLEDSheet Member=Component R17 Res2
+Added Member To Class: ClassName=waterLEDSheet Member=Component smg Component_1
+Added Member To Class: ClassName=waterLEDSheet Member=Component U ATMEL328P
+Added Room: Name=waterLEDSheet

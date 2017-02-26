@@ -1,0 +1,9 @@
+Added Component: Designator=smg(Nixie_light)
+Added Pin To Net: NetName=DP Pin=smg-1
+Added Pin To Net: NetName=A Pin=smg-2
+Added Pin To Net: NetName=F Pin=smg-3
+Added Pin To Net: NetName=D Pin=smg-4
+Added Pin To Net: NetName=E Pin=smg-5
+Added Pin To Net: NetName=C Pin=smg-6
+Added Pin To Net: NetName=B Pin=smg-7
+Added Member To Class: ClassName=waterLEDSheet Member=Component smg Component_1

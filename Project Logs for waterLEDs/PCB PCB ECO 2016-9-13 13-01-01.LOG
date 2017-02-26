@@ -1,0 +1,10 @@
+Added Component: Designator=LED(HDR1X8)
+Added Pin To Net: NetName=LED0 Pin=LED-1
+Added Pin To Net: NetName=LED1 Pin=LED-2
+Added Pin To Net: NetName=LED2 Pin=LED-3
+Added Pin To Net: NetName=LED3 Pin=LED-4
+Added Pin To Net: NetName=LED4 Pin=LED-5
+Added Pin To Net: NetName=LED5 Pin=LED-6
+Added Pin To Net: NetName=LED6 Pin=LED-7
+Added Pin To Net: NetName=LED7 Pin=LED-8
+Added Member To Class: ClassName=waterLEDSheet Member=Component LED WaterLED

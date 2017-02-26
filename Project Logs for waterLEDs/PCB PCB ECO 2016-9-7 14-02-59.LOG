@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=DP Pin=smg-1
+Removed Pin From Net: NetName=A Pin=smg-2
+Removed Pin From Net: NetName=F Pin=smg-3
+Removed Pin From Net: NetName=D Pin=smg-4
+Removed Pin From Net: NetName=E Pin=smg-5
+Removed Pin From Net: NetName=C Pin=smg-6
+Removed Pin From Net: NetName=B Pin=smg-7
+Added Pin To Net: NetName=E Pin=smg-1
+Added Pin To Net: NetName=D Pin=smg-2
+Added Pin To Net: NetName=C Pin=smg-3
+Added Pin To Net: NetName=G Pin=smg-4
+Added Pin To Net: NetName=DP Pin=smg-5
+Added Pin To Net: NetName=A Pin=smg-7
+Added Pin To Net: NetName=B Pin=smg-8
+Added Pin To Net: NetName=F Pin=smg-10

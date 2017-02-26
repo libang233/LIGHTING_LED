@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=K1 Pin=k1-1
+Removed Pin From Net: NetName=GND Pin=k1-2
+Removed Pin From Net: NetName=K2 Pin=R10-1
+Removed Pin From Net: NetName=VCC Pin=R10-2
+Change Component Footprint: Designator=R0 Old Footprint=0603 New Footprint=6-0805_N
+Change Component Footprint: Designator=R1 Old Footprint=0603 New Footprint=6-0805_N
+Change Component Footprint: Designator=R2 Old Footprint=0603 New Footprint=6-0805_N
+Change Component Footprint: Designator=R3 Old Footprint=0603 New Footprint=6-0805_N
+Change Component Footprint: Designator=R4 Old Footprint=0603 New Footprint=6-0805_N
+Change Component Footprint: Designator=R5 Old Footprint=0603 New Footprint=6-0805_N
+Change Component Footprint: Designator=R6 Old Footprint=0603 New Footprint=6-0805_N
+Change Component Footprint: Designator=R7 Old Footprint=0603 New Footprint=6-0805_N
+Change Component Footprint: Designator=R8 Old Footprint=0603 New Footprint=6-0805_N
+Change Component Footprint: Designator=R9 Old Footprint=0603 New Footprint=6-0805_N
+Change Component Footprint: Designator=R16 Old Footprint=0603 New Footprint=6-0805_N
+Change Component Footprint: Designator=R17 Old Footprint=0603 New Footprint=6-0805_N
+Added Component: Designator=R12(6-0805_N)
+Added Component: Designator=R13(6-0805_N)
+Added Pin To Net: NetName=GND Pin=k1-1
+Added Pin To Net: NetName=K1 Pin=k1-2
+Added Pin To Net: NetName=VCC Pin=R10-1
+Added Pin To Net: NetName=K2 Pin=R10-2
+Added Pin To Net: NetName=GND Pin=R12-1
+Added Pin To Net: NetName=VCC Pin=R13-2
+Added Pin To Net: NetName=NetR12_2 Pin=R12-2
+Added Pin To Net: NetName=NetR12_2 Pin=R13-1
+Added Net: Name=NetR12_2
+Added Member To Class: ClassName=waterLEDSheet Member=Component R12 Res3
+Added Member To Class: ClassName=waterLEDSheet Member=Component R13 lightCase
+Added Member To Class: ClassName=waterLEDSheet Member=Component R16 Res2

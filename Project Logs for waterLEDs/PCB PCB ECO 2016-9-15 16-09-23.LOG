@@ -1,0 +1,11 @@
+Removed Member From Class: ClassName=waterLEDSheet Member=LED
+Change Component Footprint: Designator=R0 Old Footprint=6-0805_M New Footprint=6-0805_N
+Added Pin To Net: NetName=A Pin=R0-2
+Added Pin To Net: NetName=B Pin=R1-2
+Added Pin To Net: NetName=C Pin=R2-2
+Added Pin To Net: NetName=D Pin=R3-2
+Added Pin To Net: NetName=E Pin=R4-2
+Added Pin To Net: NetName=F Pin=R5-2
+Added Pin To Net: NetName=G Pin=R6-2
+Added Pin To Net: NetName=DP Pin=R7-2
+Added Member To Class: ClassName=waterLEDSheet Member=Component k2 SW-PB

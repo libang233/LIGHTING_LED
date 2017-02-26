@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=LIGHTCASE Pin=R13-1
+Removed Pin From Net: NetName=VCC Pin=R13-2
+Removed Member From Class: ClassName=waterLEDSheet Member=R13
+Added Component: Designator=lightCase(AXIAL-0.7)
+Added Pin To Net: NetName=LIGHTCASE Pin=lightCase-1
+Added Pin To Net: NetName=VCC Pin=lightCase-2
+Added Member To Class: ClassName=waterLEDSheet Member=Component lightCase  

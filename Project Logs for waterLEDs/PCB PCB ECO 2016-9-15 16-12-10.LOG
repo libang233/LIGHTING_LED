@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=VCC Pin=lightCase-2
+Removed Pin From Net: NetName=VCC Pin=POW-4
+Removed Pin From Net: NetName=VCC Pin=Q0-1
+Removed Pin From Net: NetName=VCC Pin=Q1-1
+Removed Pin From Net: NetName=VCC Pin=R10-1
+Removed Pin From Net: NetName=VCC Pin=R11-2
+Added Component: Designator=P0(HDR1X2)
+Added Pin To Net: NetName=VCC Pin=P0-1
+Change Net Name : Old Net Name=VCC New Net Name=NetD0_1
+Added Pin To Net: NetName=VCC Pin=lightCase-2
+Added Pin To Net: NetName=VCC Pin=P0-2
+Added Pin To Net: NetName=VCC Pin=POW-4
+Added Pin To Net: NetName=VCC Pin=Q0-1
+Added Pin To Net: NetName=VCC Pin=Q1-1
+Added Pin To Net: NetName=VCC Pin=R10-1
+Added Pin To Net: NetName=VCC Pin=R11-2
+Added Net: Name=VCC
+Added Member To Class: ClassName=waterLEDSheet Member=Component P0 LEDEnable

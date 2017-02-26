@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=NetQ0_2 Pin=R8-1
+Removed Pin From Net: NetName=NetQ0_3 Pin=R16-2
+Change Component Comment : Designator=lightCase Old Comment=  New Comment=
+Added Pin To Net: NetName=NetQ0_3 Pin=R8-1
+Added Pin To Net: NetName=NetQ0_2 Pin=R16-2
